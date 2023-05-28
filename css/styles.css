@@ -1,0 +1,20 @@
+.carousel-inner {
+    height: 400px;
+  }
+.carousel{
+    margin-top: 65px;
+}  
+.foot{
+    margin-right: 21.5%;
+}  
+.buy-button{
+    padding-bottom: 2px;
+    padding-top: 10px;
+}
+.btn-dark{
+padding-right: 75%;
+text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
